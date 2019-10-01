@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "git-test",
+=======
+  "name": "gitTest",
+>>>>>>> d1d4a18f75aa171d49b8b9849d2f5d7e86bb73af
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,9 +12,13 @@
   },
   "keywords": [],
   "author": "",
+<<<<<<< HEAD
   "license": "ISC",
   "devDependencies": {
     "node-sass": "^4.12.0",
     "sass-loader": "^8.0.0"
   }
+=======
+  "license": "ISC"
+>>>>>>> d1d4a18f75aa171d49b8b9849d2f5d7e86bb73af
 }
